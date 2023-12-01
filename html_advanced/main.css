@@ -1,0 +1,9 @@
+header, main, footer
+    {
+        display: block;
+        
+    }
+body
+    {
+        background-color: none;
+    }
