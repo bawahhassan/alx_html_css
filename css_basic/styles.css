@@ -5,8 +5,10 @@ body,main
 body
     {
     flex-direction: column;
+    .work_on_smartphone
     }
-main{
+main
+    {
     flex-direction: row;
     flex:auto;
     }
@@ -22,3 +24,4 @@ article,aside
     {
      overflow-y: auto;   
     }
+background-color: blue;
